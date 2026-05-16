@@ -1,12 +1,7 @@
-<h1 align="center">Привет, я SalatEh! 👋</h1>
+<h1 align="center"> salateh / student 👋</h1>
 
-<h3 align="center">Frontend Developer | Walking the Path of Discipline ⛩️</h3>
 
 <br/>
-
-<div align="center">
-  <p>Я сфокусирован на глубоком изучении экосистемы JavaScript и создании современных веб-приложений. Соблюдаю строгую дисциплину, тренирую как тело, так и код, чтобы выдавать максимум производительности при решении сложных архитектурных задач.</p>
-</div>
 
 <br/>
 
