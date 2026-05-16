@@ -15,4 +15,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/salateh/salateh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
-###
