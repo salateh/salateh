@@ -13,5 +13,9 @@
 
 ###
 <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=salateh&layout=compact&theme=gruvbox">
+</p>
+###
+<p align="center">
   <img src="https://raw.githubusercontent.com/salateh/salateh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 </p>
