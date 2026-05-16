@@ -8,14 +8,14 @@
 
 ###
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=salateh&theme=bear&show_icons=true&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=salateh&show_icons=true&theme=dark">
 </p>
 
 ###
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=salateh&layout=compact&theme=gruvbox">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=salateh&layout=compact&theme=dark">
 </p>
-<button><button/>
+<button>/<button/>
 
 
 <p align="center">
