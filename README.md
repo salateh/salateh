@@ -1,8 +1,8 @@
-<h1 align="center"> salateh / student 👋</h1>
+<h1 align="center"> salateh | student 👋</h1>
 
 
 <br/>
-<h3 align="center">Student Frontend Developer | Following the path of discipline⛩️</h3>
+<h3 align="center"> Frontend Developer | Following the path of discipline⛩️</h3>
 <br/>
 
 <div align="center">
