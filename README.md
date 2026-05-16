@@ -1,9 +1,14 @@
-<h1 align="center" style="color:red"> salateh / student </h1>
+<h1 align="center"> salateh / student </h1>
 
 ###
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,vscode,git" height="40" alt="my skills" />
 </div>
+
+###
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=salateh&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
 
 ###
