@@ -8,14 +8,16 @@
 
 ###
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=salateh&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=salateh&theme=bear&show_icons=true&hide_border=true&count_private=true">
 </p>
 
 ###
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=salateh&layout=compact&theme=gruvbox">
 </p>
-###
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/salateh/salateh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 </p>
