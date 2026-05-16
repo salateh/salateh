@@ -2,7 +2,7 @@
 
 
 <br/>
-
+<h3 align="center">Student Frontend Developer | Following the path of discipline⛩️</h3>
 <br/>
 
 <div align="center">
