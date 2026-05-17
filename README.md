@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,vscode,git" height="40" alt="my skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vscode,git" height="40" alt="my skills" />
 </div>
 
 <br/>
