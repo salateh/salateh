@@ -8,7 +8,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vscode,git" height="40" alt="my skills" />
 </div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=salateh&style=flat-square&color=blue" alt=""></p>
 <br/>
 
 <div align="center">
