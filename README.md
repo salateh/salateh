@@ -1,4 +1,3 @@
-![Activity Graph](https://vercel.app)
 <h1 align="center"> salateh | student 👋</h1>
 
 
