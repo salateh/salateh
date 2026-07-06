@@ -2,7 +2,7 @@
 
 
 <br/>
-<h3 align="center"> Frontend Developer</h3>
+<h2 align="center"> Frontend Developer</h2>
 <br/>
 
 <p align="center">
