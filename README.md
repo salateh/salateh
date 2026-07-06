@@ -2,8 +2,10 @@
 
 
 <br/>
-<h3 align="center"> Frontend Developer | Following the path of discipline⛩️</h3>
+<h3 align="center"> Frontend Developer</h3>
 <br/>
+
+![Gigachad](https://upload.wikimedia.org/wikipedia/ru/9/94/%D0%93%D0%B8%D0%B3%D0%B0%D1%87%D0%B0%D0%B4.jpg)
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vscode,git" height="40" alt="my skills" />
