@@ -2,11 +2,11 @@
 
 
 <br/>
-<h3 align="center"> Frontend Developer <h1>🌐</h1> </h3>
+<h3 align="center"> Frontend Developer 🌐</h3>
 <br/>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/ru/9/94/%D0%93%D0%B8%D0%B3%D0%B0%D1%87%D0%B0%D0%B4.jpg" alt="Gigachad" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/ru/9/94/%D0%93%D0%B8%D0%B3%D0%B0%D1%87%D0%B0%D0%B4.jpg" alt="Gigachad" width="60" height="60"/>
 </p>
 
 <div align="center">
