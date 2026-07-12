@@ -1,13 +1,11 @@
-<h1 align="center"> salateh | student 👋</h1>
+<h1 align="center"> salateh | student 👋   <img src="https://data.chpic.su/stickers/s/SkalaDanielRain/SkalaDanielRain_009.webp"  width="40" height="40" align="center" /> </h1>
 
 
 <br/>
 <h2 align="center"> Frontend Developer</h2>
 <br/>
 
-<p align="center">
 
-</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vscode,git" height="40" alt="my skills" />  
