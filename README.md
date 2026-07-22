@@ -5,12 +5,21 @@
 <h2 align="center"> Frontend Developer</h2>
 <br/>
 
+<div align="center" >
+
+  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vscode,git,vite,npm)](https://skillicons.dev)  
 
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vscode,git" height="40" alt="my skills" />  
-  <img src="https://upload.wikimedia.org/wikipedia/ru/9/94/%D0%93%D0%B8%D0%B3%D0%B0%D1%87%D0%B0%D0%B4.jpg" alt="Gigachad" width="40" height="40"/>
+
+<img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="zustand" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/ru/9/94/%D0%93%D0%B8%D0%B3%D0%B0%D1%87%D0%B0%D0%B4.jpg" alt="Gigachad" width="50" height="50"/>
+
 </div>
+
+
+
+
 <br/>
 
 <div align="center">
